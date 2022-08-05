@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Täze Gün</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="uly_sok">Uly sok</string>
+    <string name="ki_i_sok">Kiçi sok</string>
+</resources>

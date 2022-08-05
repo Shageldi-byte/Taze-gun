@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableRow
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+
+    <TextView
+        android:id="@+id/tagamy"
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:text="Tagamy"
+        android:textSize="15sp"
+        android:layout_weight="1"
+        android:textColor="#000"
+        android:padding="12dp"
+        android:background="@drawable/row_bg"
+        />
+
+    <TextView
+        android:id="@+id/sany"
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:text="Sany"
+        android:textSize="15sp"
+        android:textColor="#000"
+        android:layout_weight="1"
+        android:padding="12dp"
+        android:background="@drawable/row_bg"
+        />
+
+    <TextView
+        android:id="@+id/nira"
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:text="Nirä"
+        android:layout_weight="1"
+        android:textSize="15sp"
+        android:textColor="#000"
+        android:padding="12dp"
+        android:background="@drawable/row_bg"
+        />
+
+    <TextView
+        android:id="@+id/baha"
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:text="Baha"
+        android:layout_weight="1"
+        android:textSize="15sp"
+        android:textColor="#000"
+        android:padding="12dp"
+        android:background="@drawable/row_bg"
+        />
+
+    <TextView
+        android:id="@+id/sene"
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:text="Senesi"
+        android:layout_weight="1"
+        android:textSize="15sp"
+        android:textColor="#000"
+        android:padding="12dp"
+        android:background="@drawable/row_bg"
+        />
+</TableRow>
